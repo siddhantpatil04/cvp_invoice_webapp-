@@ -1,0 +1,15 @@
+CVP Invoice Web App - UI Design Refresh
+
+Updated areas:
+1. Professional navy/teal dashboard theme with light finance-workspace background.
+2. Redesigned top brand header with company identity and billing/payment subtitle.
+3. Improved top navigation: Dashboard, Company & Projects, Create Invoice, Reports.
+4. New page hero headers for setup, invoicing and reports.
+5. Cleaner typography, spacing, form labels and input controls.
+6. Improved KPI cards, metrics, project progress cards and panels.
+7. Professional primary/secondary/download button styling.
+8. Cleaner expanders, forms, tabs, dataframes and data editors.
+9. Mobile-responsive spacing and typography.
+10. Corrected the Create Invoice empty-project message to refer to the top Financial Year selector instead of the removed sidebar.
+
+Core billing, GST, milestone, payment, database and PDF logic has not been intentionally changed by this UI refresh.
